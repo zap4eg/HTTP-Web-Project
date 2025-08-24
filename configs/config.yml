@@ -6,4 +6,4 @@ mongo:
     name:
       application_database
     uri:
-      mongodb+srv://zap4eg:rafik22847@cluster0.5kvsiem.mongodb.net/
+      mongodb+srv://username:password@cluster0.5kvsiem.mongodb.net/
