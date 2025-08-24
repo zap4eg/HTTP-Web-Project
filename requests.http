@@ -1,0 +1,15 @@
+GET localhost:8000/users
+
+###
+
+GET localhost:8000/users/689cd749ba89cd374ce7b97b
+
+###
+
+POST localhost:8000/users
+Content-Type: application/json
+
+{
+    "firstName": "Roman",
+    "lastName": "Romanov"
+}

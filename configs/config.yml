@@ -1,0 +1,9 @@
+http:
+  port:
+    8000
+mongo:
+  database:
+    name:
+      application_database
+    uri:
+      mongodb+srv://zap4eg:rafik22847@cluster0.5kvsiem.mongodb.net/
